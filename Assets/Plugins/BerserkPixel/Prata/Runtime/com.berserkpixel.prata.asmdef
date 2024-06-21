@@ -1,0 +1,16 @@
+{
+    "name": "com.berserkpixel.prata",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3cf8d665195ff384c9f0a7bc10543afc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
